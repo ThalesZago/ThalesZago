@@ -53,22 +53,24 @@
   </a> 
   
 </div>
+<br>
+
 <div> 
  
    <a href="https://www.youtube.com/channel/UCrERo6XYxEG_7eDMhOIACCw" target="_blank">
-     <img align="right" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+     <img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>   
 
    <a href="https://instagram.com/zago.thales" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="right" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left" target="_blank">
   </a>
 
    <a href="https://www.linkedin.com/in/thales-de-souza-091900150/" target="_blank">
-     <img  align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <img  align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
    <a href = "mailto:thaleszago@outlook.com">
-     <img align="right" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+     <img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
  
 </div>
