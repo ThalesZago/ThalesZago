@@ -49,7 +49,7 @@
   </ul>
  
   <a href="https://github.com/ThalesZago">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesZago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+    <img align="center" width="588px" src="https://github-readme-stats.vercel.app/api?username=ThalesZago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
   </a> 
   
 </div>
