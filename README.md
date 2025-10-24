@@ -12,7 +12,7 @@
   <b> Who am I ? </b> <br>
   <ul>
     <li> 🙃 &nbsp; My name is Thales Zago de Souza </li>
-    <li> 🤯 &nbsp; Nowadays I'm learning more about Angular, NestJS and AEM </li>
+    <li> 🤯 &nbsp; Nowadays I'm learning more about AEM and Nuxt SSR </li>
     <li> 💻 &nbsp; Working as Systems Architect at CI&T. </li>
   </ul>
   <a href="https://github.com/ThalesZago">
