@@ -13,7 +13,7 @@
   <ul>
     <li> 🙃 &nbsp; My name is Thales Zago de Souza </li>
     <li> 🤯 &nbsp; Nowadays I'm learning more about AEM and Nuxt SSR </li>
-    <li> 💻 &nbsp; Working as Systems Architect at CI&T. </li>
+    <li> 💻 &nbsp; Working as Systems Architect. </li>
   </ul>
   <a href="https://github.com/ThalesZago">
     <img align="center" width="588px" src="https://github-readme-stats.vercel.app/api?username=ThalesZago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
